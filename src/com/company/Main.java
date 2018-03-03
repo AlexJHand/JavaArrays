@@ -1,6 +1,10 @@
 package com.company;
 
+import java.util.Scanner;
+
 public class Main {
+
+    private static Scanner scanner = new Scanner(System.in); 
 
     public static void main(String[] args) {
 ////	    int[] myIntArray = {1,2,3,4,5,6,7,8,9,10};
@@ -15,7 +19,7 @@ public class Main {
 //        }
 //        printArray(myIntArray);
 
-        
+
 
     }
 
